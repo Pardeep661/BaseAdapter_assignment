@@ -1,0 +1,2 @@
+# BaseAdapter_assignment
+ 
