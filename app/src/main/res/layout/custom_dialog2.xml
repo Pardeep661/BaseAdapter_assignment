@@ -34,7 +34,7 @@
         android:id="@+id/cd_button"
         android:layout_width="100dp"
         android:layout_height="60dp"
-        android:text="@string/add"
+        android:text="@string/update"
         android:layout_marginTop="30dp"
         android:layout_gravity="center"/>
 

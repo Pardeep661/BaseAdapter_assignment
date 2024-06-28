@@ -103,7 +103,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun addNewData(data : Int) {
         Dialog(this).apply {
-            setContentView(R.layout.custom_dialog)
+            setContentView(R.layout.custom_dialog2)
             window?.setLayout(ViewGroup.LayoutParams.MATCH_PARENT,ViewGroup.LayoutParams.WRAP_CONTENT)
 
             val button = findViewById<Button>(R.id.cd_button)

@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BaseAdapter_assignment</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_roll_number">Enter Roll Number</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="english">English</string>
+    <string name="digit">1212</string>
+    <string name="name">Name</string>
 </resources>
